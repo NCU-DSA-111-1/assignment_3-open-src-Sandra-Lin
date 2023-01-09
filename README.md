@@ -17,4 +17,20 @@ Observation of the family from the monster.
 Monster want to be accepted.
 Safie’s father and the family.
 Safie’s appearance.
-The monster learning and trying to talk to the family.<br />
+The monster learning and trying to talk to the family.<br /><br />
+
+Arcd encoding:<br />
+OK x+0      1    u  ˆ#    1C R    MjώGa  -D*    Đ    \/ d 5c  ^   R; Hv m  +j{ZK  i  1 i z C  =S     }( 'd =! F j3 <br />
+the coding time is 0.000219 sec.<br />
+Arcd decoding:<br />
+Observation of the family from the monster
+Monster want to be accepted
+Safie’s father and the family
+Safie’s appearance
+The monster learning and trying to talk to the family<br />
+the coding time is 0.000263 sec.<br />
+
+Huffman encoding:<br />
+the coding time is 0.000271 sec.<br />
+Huffman decoding:<br />
+the coding time is 0.000087 sec.
