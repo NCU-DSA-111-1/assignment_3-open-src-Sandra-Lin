@@ -33,4 +33,8 @@ the coding time is 0.000263 sec.<br />
 Huffman encoding:<br />
 the coding time is 0.000271 sec.<br />
 Huffman decoding:<br />
-the coding time is 0.000087 sec.
+the coding time is 0.000087 sec.<br />
+
+## Reference
+https://github.com/drichardson/huffman<br />
+https://github.com/wonder-mice/arcd
